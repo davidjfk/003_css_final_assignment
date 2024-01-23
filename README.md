@@ -13,14 +13,6 @@ You are allowed to use our Slack channels to ask any questions to your fellow st
 <br/>
 <br/>
 
-# Requirements
-
-All requirements (+ extra features) have been implemented: extra features, fixed bugs, requirements,  
-API requirements, extra bonus.
-
-<br/>
-<br/>
-
 ## General requirements
 
 1. Complete all exercises on a single HTML page.
